@@ -182,3 +182,4 @@ See Glue API reference at [REST API reference](https://docs.spryker.com/docs/sco
 ## Contributing to the repository
 
 For contribution guidelines, see [Code contribution guide](https://docs.spryker.com/docs/scos/dev/code-contribution-guide.html#opening-pull-requests)
+# spryker-project
