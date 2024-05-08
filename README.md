@@ -185,3 +185,4 @@ For contribution guidelines, see [Code contribution guide](https://docs.spryker.
 # spryker-project
 # sprykerProject
 # spryker_lensproject
+# spryker-project
