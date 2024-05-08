@@ -184,3 +184,4 @@ See Glue API reference at [REST API reference](https://docs.spryker.com/docs/sco
 For contribution guidelines, see [Code contribution guide](https://docs.spryker.com/docs/scos/dev/code-contribution-guide.html#opening-pull-requests)
 # spryker-project
 # sprykerProject
+# spryker_lensproject
